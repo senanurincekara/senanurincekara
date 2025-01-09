@@ -1,7 +1,10 @@
+
+<p align="center">
+  <img src="./assets/gif.gif" alt="Banner" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Senanur</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" style="border-radius: 15px;" />
 
 - 🌱 **I’m currently learning:**  
   Flutter, Angular, TypeScript, and Java Spring Boot.  

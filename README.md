@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/gif.gif" alt="Banner" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
+  <img src="./assets/gif2.gif" alt="Banner" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Senanur</h1>

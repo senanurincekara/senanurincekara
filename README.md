@@ -4,12 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Senanur</h1>
-<h3 align="center">A passionate Mobile Developer from Turkey</h3>
-
-- 🌱 **I’m currently learning:**  
-  Flutter, Angular, TypeScript, and Java Spring Boot.  
-- 👨‍💻 **All of my projects are available at:**  
-  [My Portfolio](https://senanur-incekara-portfolio.netlify.app/)  
+<h3 align="center">A passionate Developer from Turkey</h3>
 
 ---
 
